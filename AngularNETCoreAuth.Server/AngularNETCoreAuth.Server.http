@@ -1,0 +1,6 @@
+@AngularNETCoreAuth.Server_HostAddress = http://localhost:5017
+
+GET {{AngularNETCoreAuth.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularNETCoreAuth.Server", "AngularNETCoreAuth.Server\AngularNETCoreAuth.Server.csproj", "{6E560D35-364B-4EE3-A489-C7D7F11C22BD}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "angularnetcoreauth.client", "angularnetcoreauth.client\angularnetcoreauth.client.esproj", "{428D60A0-8865-4D4C-BED1-D444A15FC8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E560D35-364B-4EE3-A489-C7D7F11C22BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E560D35-364B-4EE3-A489-C7D7F11C22BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E560D35-364B-4EE3-A489-C7D7F11C22BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E560D35-364B-4EE3-A489-C7D7F11C22BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428D60A0-8865-4D4C-BED1-D444A15FC8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428D60A0-8865-4D4C-BED1-D444A15FC8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428D60A0-8865-4D4C-BED1-D444A15FC8FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{428D60A0-8865-4D4C-BED1-D444A15FC8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428D60A0-8865-4D4C-BED1-D444A15FC8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428D60A0-8865-4D4C-BED1-D444A15FC8FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA01F48-5ACA-433D-85FB-6A8D4DE95025}
+	EndGlobalSection
+EndGlobal
